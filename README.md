@@ -29,7 +29,7 @@ To the initial analysis of the information, we have added two additional assignm
 
 ## Additional analysis
 
-In addition to the tables and the analysis presented in the previous section, we conducted further reviews of the information that allows us to comprehend the "silver tsunami" in a more complex way.
+To provide a more complete and complex analysis we conducted further reviews of the information, and that will allow us to comprehend the "silver tsunami" from other points of view.
 
 ### Retirements per departments
 
