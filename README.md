@@ -14,7 +14,11 @@ To the initial analysis of the information, we have added two additional assignm
  ## Results
  Regarding the information we obtained by manipulating the company's database and generating a set of tables that provided information about the upcoming "silver tsunami", we can clonclude the following:
  
+ 
+ 
  <img width="271" alt="retiring_titles" src="https://user-images.githubusercontent.com/107893200/185568886-e1657abf-8b1f-4689-ae09-d8ab1fc3fbbc.png">
+ 
+ 
 
  - We are estimating that the company will lose a total of 72,458 employees in various areas due to retirement. Mainly the ranks that will see the most departures are Senior Engineer, with 25,916 people, and Senior Staff with 24,926 people retiring. This is followed by the ranks of Engineer with 9,285 people, Staff with 7,636, Technique Leader with 3,603, and Assistant Engineer with 1,090. Lastly, the rank with the fewest retirements is Manager with only 2 people. 
 - We can also conclude that the company allowed its employees to grow and be promoted. There are people who were even promoted twice, achieving a Senior position in the company. We were able to obtain this information due to the fact that in the database the name of some of the employees was repeated up to three times, and their rank changed after a certain period of time in the company. 
@@ -51,7 +55,7 @@ As we can see, there is a higher number of male employees who are retiring, with
  
  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
  
-+From this initial analysis we can estimate that the company will have to fill 72,458 roles in its various areas. Of the ranks that will see the most retirements is Senior Egineer, and the department with the most retirements will be Development. We were also able to identify that at least among the group of retirees, the company has more male than female employees. With the onset of the "silver tsunami", Pewlett Hackard could incentivize the hiring of more women, and thus not only modernize its company but also increase the number of female employees.
+From this initial analysis we can estimate that the company will have to fill 72,458 roles in its various areas. Of the ranks that will see the most retirements is Senior Egineer, and the department with the most retirements will be Development. We were also able to identify that at least among the group of retirees, the company has more male than female employees. With the onset of the "silver tsunami", Pewlett Hackard could incentivize the hiring of more women, and thus not only modernize its company but also increase the number of female employees.
  
  - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
